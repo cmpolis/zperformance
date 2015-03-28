@@ -1,0 +1,14 @@
+{
+  "name": "zperformance",
+  "version": "0.0.1",
+  "description": "A set of tools and functions for equity and portfolio analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finance"
+  ],
+  "author": "Chris Polis",
+  "license": "ISC"
+}
